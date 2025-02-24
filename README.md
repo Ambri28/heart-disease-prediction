@@ -14,8 +14,6 @@ Dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysi
 
 Kaggle link: https://www.kaggle.com/code/kavya2099/heart-attack-analysis-prediction/notebook
 
-Link to access streamlit: https://heart-attack-analysis-prediction.streamlit.app/
-
 <p align="center">
 <img src="predict heart attack.gif"  />
 </p>
