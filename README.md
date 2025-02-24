@@ -1,7 +1,6 @@
 
-# Heart Attack Analysis Prediction
+# Heart Attack Analysis Prediction model 
 
-#### Heart Attack Analysis &amp; Prediction model created for DataTalks.Club mlzoomcamp course midterm project
 <p align="center">
 <img src="https://cdn.dribbble.com/users/2154580/screenshots/6452241/atemlos_loop_heart_v1.0_chriseff_dribbble.gif" width="500" height="400" />
 </p>
